@@ -5,6 +5,7 @@
   text-align: center;
 }
 
-img {
-  max-width: 800px;
+#cat-image {
+  max-width: 500px;
+  height: auto;
 }
